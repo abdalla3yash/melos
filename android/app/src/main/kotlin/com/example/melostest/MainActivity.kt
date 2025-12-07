@@ -1,4 +1,4 @@
-package com.example.melostest
+package melos.app
 
 import io.flutter.embedding.android.FlutterActivity
 
